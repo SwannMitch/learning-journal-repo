@@ -3,7 +3,7 @@
 Markdown is a simple way to style text on the Internet. It is primarily used by Github, Reddit, and others due to it's focus on readability.
 
 For instance, you can change the text emphasis by making items **bold** or _italicized_.
-Bold text by using two asterisks or two underscores. Italicise text using one asterisk or one underscore.
+Bold text by using two asterisks or two underscores. Italicize text using one asterisk or one underscore.
 ```
 **bold**
 _italicized_
