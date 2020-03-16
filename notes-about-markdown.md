@@ -9,7 +9,7 @@ Bold text by using two asterisks or two underscores. Italicise text using one as
 _italicized_
 ```
 
-You can also format text in different ways using headers, links, lists, and tables.
+## You can also format text in different ways using headers, links, lists, and tables.
 
 **Headers**
 You can create headers using '# New header'.
@@ -20,14 +20,14 @@ The different header fonts go from the largest with '#' to the smallest with '##
 _Becomes:_
 ### New header 
 
-**Unordered lists:
+**Unordered lists:**
 ```
 - An unordered (bulleted) list
 ```
 _Becomes:_
 - An unordered (bulleted) list
 
-**Ordered lists:  
+**Ordered lists:**  
 If you want your text ordered:  
 ```
 1. Use a number
@@ -41,7 +41,7 @@ _Becomes:_
 2. You can repeat numbers
 4. The order doesnt matter.
 
-With tables:  
+**With tables:**  
 
 ```
 |First Header | Second Header | Third Header |
