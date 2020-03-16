@@ -9,6 +9,6 @@
 - Using it to Fuel Your Ambitions 
 - Perservering and Succeeding
 
-If you're interested in seeing my growth as a Web Developer click **[Here]**(https://github.com/SwannMitch)!
+If you're interested in seeing my growth as a Web Developer click **[Here!](https://github.com/SwannMitch)**
 
 
