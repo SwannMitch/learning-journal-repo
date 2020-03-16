@@ -37,15 +37,19 @@ With tables:
 
 ```
 |First Header | Second Header | Third Header |
-|:----------  | :-----------: | ----------:  |
-|row 1 cell 1 | row 1 cell 2  | row 1 cell 3 |
+|:---  | :---: | ---:  |
+|left aligned |   centered    | right aligned |
 |row 2 cell 1 | row 2 cell 2  | row 2 cell 3 |
 ```
 
 _Becomes_
 
 |First Header | Second Header | Third Header |
-|:----------  | :-----------: | ----------:  |
-|row 1 cell 1 | row 1 cell 2  | row 1 cell 3 |
+|:---  | :---: | ---:  |
+|left aligned |   centered    | right aligned |
 |row 2 cell 1 | row 2 cell 2  | row 2 cell 3 |
 
+Notice the row in between the headers and cells of the table determines the alignment of the text in the columns with the placement semicolons on the sides of hyphens.
+
+
+ 
