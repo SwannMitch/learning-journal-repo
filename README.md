@@ -15,6 +15,8 @@ If you're interested in seeing my growth as a Web Developer, please visit my Git
 
 ## More about me
 
+![Image](prof img1.jpg)
+
 > I'm 22.
 > I'm a father to a beautiful, chunky daughter who'll be 7 months on the 24th of March.
 > I'm an Army Veteran.
