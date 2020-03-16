@@ -13,10 +13,25 @@ _Becomes:_
 You can also format text in different ways using emphasis, links, lists, and tables.
 
 Unordered lists:
-An unordered (bulleted) list can be made using either '-' or '*'
 ```
-- An unordered (bulleted) list
+'- An unordered (bulleted) list
 ```
+_Becomes:_
+- Au unordered (bulleted) list
+
+Ordered lists:
+If you want your text ordered:
+```
+1. Use a number
+2. Followed by a period
+2. You can repeat numbers
+5. The order doesnt matter.
+```
+_Becomes:_
+1. Use a number
+2. Followed by a period
+2. You can repeat numbers
+4. The order doesnt matter.
 
 With tables
 
