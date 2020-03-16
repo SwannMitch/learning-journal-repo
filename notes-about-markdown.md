@@ -13,7 +13,7 @@ _Becomes:_
 You can also format text in different ways using emphasis, links, lists, and tables.
 
 Unordered lists:
-- An unordered (bulleted) list can be made using either '-' or '*'
+An unordered (bulleted) list can be made using either '-' or '*'
 ```
 - An unordered (bulleted) list
 ```
