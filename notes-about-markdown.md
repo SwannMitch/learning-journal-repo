@@ -14,3 +14,18 @@ With lists:
 or
 1. Make an ordered list using '1., 2., etc'
 
+With tables
+
+'''
+First Header | Second Header
+------------ | :-----------:
+row 1 cell 1 | row 1 cell 2
+row 2 cell 1 | row 2 cell 2'
+''' 
+
+Becomes:
+
+First Header | Second Header
+------------ | :-----------:
+row 1 cell 1 | row 1 cell 2
+row 2 cell 1 | row 2 cell 2
