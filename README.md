@@ -22,3 +22,6 @@ If you're interested in seeing my growth as a Web Developer, please visit my Git
 > I'm an Army Veteran.
 > I'm a gamer.
 > I'm really looking forward to joining this industry and work with something I actually have an aptitude for.
+
+
+[### My notes about Markdown](https://swannmitch.github.io/learning-journal-repo/notes-about-markdown)
