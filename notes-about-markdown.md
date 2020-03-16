@@ -2,7 +2,17 @@
 
 Markdown is a simple way to style text on the Internet. It is primarily used by Github, Reddit, and others due to it's focus on readability.
 
-For instance, you can create headers using '# New header'.
+For instance, you can change the text emphasis by making items **bold** or _italicized_.
+Bold text by using two asterisks or two underscores. Italicise text using one asterisk or one underscore.
+```
+**bold**
+_italicized_
+```
+
+You can also format text in different ways using headers, links, lists, and tables.
+
+**Headers**
+You can create headers using '# New header'.
 The different header fonts go from the largest with '#' to the smallest with '######'
 ```
 ### New header 
@@ -10,16 +20,14 @@ The different header fonts go from the largest with '#' to the smallest with '##
 _Becomes:_
 ### New header 
 
-You can also format text in different ways using emphasis, links, lists, and tables.
-
-Unordered lists:
+**Unordered lists:
 ```
 - An unordered (bulleted) list
 ```
 _Becomes:_
 - An unordered (bulleted) list
 
-Ordered lists:  
+**Ordered lists:  
 If you want your text ordered:  
 ```
 1. Use a number
