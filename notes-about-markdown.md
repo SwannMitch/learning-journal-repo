@@ -14,13 +14,13 @@ You can also format text in different ways using emphasis, links, lists, and tab
 
 Unordered lists:
 ```
-'- An unordered (bulleted) list
+- An unordered (bulleted) list
 ```
 _Becomes:_
-- Au unordered (bulleted) list
+- An unordered (bulleted) list
 
-Ordered lists:
-If you want your text ordered:
+Ordered lists:  
+If you want your text ordered:  
 ```
 1. Use a number
 2. Followed by a period
@@ -33,20 +33,19 @@ _Becomes:_
 2. You can repeat numbers
 4. The order doesnt matter.
 
-With tables
+With tables:  
 
 ```
-First Header | Second Header
------------- | :-----------:
-row 1 cell 1 | row 1 cell 2
-row 2 cell 1 | row 2 cell 2
+|First Header | Second Header | Third Header |
+|:----------  | :-----------: | ----------:  |
+|row 1 cell 1 | row 1 cell 2  | row 1 cell 3 |
+|row 2 cell 1 | row 2 cell 2  | row 2 cell 3 |
 ```
 
 _Becomes_
 
-First Header | Second Header
------------- | :-----------:
-row 1 cell 1 | row 1 cell 2
-row 2 cell 1 | row 2 cell 2
-
+|First Header | Second Header | Third Header |
+|:----------  | :-----------: | ----------:  |
+|row 1 cell 1 | row 1 cell 2  | row 1 cell 3 |
+|row 2 cell 1 | row 2 cell 2  | row 2 cell 3 |
 
