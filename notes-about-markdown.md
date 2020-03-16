@@ -11,7 +11,7 @@ _italicized_
 
 ## You can also format text in different ways using headers, links, lists, and tables.
 
-**Headers**
+**Headers:**  
 You can create headers using '# New header'.
 The different header fonts go from the largest with '#' to the smallest with '######'
 ```
@@ -50,7 +50,7 @@ _Becomes:_
 |row 2 cell 1 | row 2 cell 2  | row 2 cell 3 |
 ```
 
-_Becomes_
+_Becomes:_
 
 |First Header | Second Header | Third Header |
 |:---  | :---: | ---:  |
@@ -59,5 +59,16 @@ _Becomes_
 
 Notice the row in between the headers and cells of the table determines the alignment of the text in the columns with the placement semicolons on the sides of hyphens.
 
+**Links:**
+If you want create a link, to my homepage for example, it would look like this
+```
+https://swannmitch.github.io/learning-journal-repo/  
+or  
+[Home](https://swannmitch.github.io/learning-journal-repo/)
+```
+_Becomes:_  
+https://swannmitch.github.io/learning-journal-repo/  
+or  
+[Home](https://swannmitch.github.io/learning-journal-repo/)
+Notice how the text in the brackets is now a hyperlink for the source.
 
- 
