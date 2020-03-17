@@ -9,9 +9,14 @@
 - Using it to Fuel Your Ambitions 
 - Perservering and Succeeding
 
-If you're interested in seeing my growth as a Web Developer, please visit my GitHub by clicking **[Here!](https://github.com/SwannMitch)**
+### Here's how I can remind myself to keep a growth mindset.  
+
+1. Believe in Myself
+2. Remain Humble
+3. Accept challenges and Struggles as Part of the Process
 
 
+_If you're interested in seeing my growth as a Web Developer, please visit my GitHub by clicking **[Here!](https://github.com/SwannMitch)**_
 
 ## More about me
 
