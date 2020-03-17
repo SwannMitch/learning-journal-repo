@@ -1,24 +1,7 @@
 # Learning Journal
 
-## Growth Mindset
 
-### Here's what a growth mindset means to me:
-
-- Setting Goals
-- Embracing the Struggle
-- Using it to Fuel Your Ambitions 
-- Perservering and Succeeding
-
-### Here's how I can remind myself to keep a growth mindset.  
-
-1. Believe in Myself
-2. Remain Humble
-3. Accept Challenges and Struggles as Part of the Process
-
-
-_If you're interested in seeing my growth as a Web Developer, please visit my GitHub by clicking **[Here!](https://github.com/SwannMitch)**_
-
-## More about me
+### About Me
 
 ![Image](prof-img2.jpg)
 
@@ -28,5 +11,9 @@ _If you're interested in seeing my growth as a Web Developer, please visit my Gi
 > I'm a gamer.
 > I'm really looking forward to joining this industry and work with something I actually have an aptitude for.
 
+## Table of Contents
 
-### [My notes about Markdown](https://swannmitch.github.io/learning-journal-repo/notes-about-markdown)
+- [Notes about Markdown](https://swannmitch.github.io/learning-journal-repo/notes-about-markdown)
+- [Notes about the CLI](https://swannmitch.github.io/learning-journal-repo/cli)
+- [Notes about Git](https://swannmitch.github.io/learning-journal-repo/git-good)
+
