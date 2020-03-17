@@ -62,12 +62,12 @@ Notice the row in between the headers and cells of the table determines the alig
 **Links:**  
 If you want create a link, to my homepage for example, it would look like this
 ```
-https://swannmitch.github.io/learning-journal-repo/  
+https://swannmitch.github.io/learning-journal-repo  
 or  
 [Home](https://swannmitch.github.io/learning-journal-repo/)
 ```
 _Becomes:_  
-https://swannmitch.github.io/learning-journal-repo/  
+https://swannmitch.github.io/learning-journal-repo  
 or  
 [Home](https://swannmitch.github.io/learning-journal-repo/)  
 Notice how the text in the brackets is now a hyperlink for the source.
