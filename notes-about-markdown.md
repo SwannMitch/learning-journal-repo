@@ -12,7 +12,6 @@ _italicized_
 ## You can also format text in different ways using headers, links, lists, and tables.
 
 **Headers:**  
-You can create headers using '# New header'.
 The different header fonts go from the largest with '#' to the smallest with '######'
 ```
 ### New header 
@@ -28,7 +27,7 @@ _Becomes:_
 - An unordered (bulleted) list
 
 **Ordered lists:**  
-If you want your text ordered:  
+If you want your text ordered (numbered):  
 ```
 1. Use a number
 2. Followed by a period
