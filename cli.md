@@ -24,6 +24,3 @@
 	- specifies a location in relation to where we currently are in the system
 - cd (change directory)
 	- a command used to move around in the system
-	
-	##
-	
