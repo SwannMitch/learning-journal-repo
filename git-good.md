@@ -28,7 +28,7 @@ git config --global user.email "[insert email address]"
 ```
 git clone [repository URL]
 ```
-> To determine the file states (which files are tracked abnd untracked
+> To determine the file states (which files are tracked and untracked)
 ```
 git status
 ```
