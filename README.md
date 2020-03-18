@@ -16,4 +16,4 @@
 - [Notes about Markdown](https://swannmitch.github.io/learning-journal-repo/notes-about-markdown)
 - [Notes about the CLI](https://swannmitch.github.io/learning-journal-repo/cli)
 - [Notes about Git](https://swannmitch.github.io/learning-journal-repo/git-good)
-- [Future Notes Placeholder](futurelink.github.io/)
+- [Notes about HTML](https://swannmitch.github.io/learning-journal-repo/html)
