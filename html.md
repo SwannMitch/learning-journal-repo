@@ -26,6 +26,8 @@ Here is an example of a paragraph tag:
     - defines sections in a document, such as chapters, headers, footers, or any other sections of the document
 - <article><article>
     - specifies independent, self-contained content
+- <footer></footer>
+    - contains the footer for the document
 - <a></a> (anchor)
     - anchor tags create hyperlinks. Usually containing the attribute 'href'
 - href='' (hypertext reference)
