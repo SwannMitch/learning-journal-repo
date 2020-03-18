@@ -9,7 +9,7 @@ Here is an example of a paragraph tag:
 ```
 
 #### Here are some HTML terminology:
-
+```
 - <html></html>
     - defines the documents as an HTML document.
 - <body></body>
@@ -30,7 +30,8 @@ Here is an example of a paragraph tag:
     - anchor tags create hyperlinks. Usually containing the attribute 'href'
 - href='' (hypertext reference)
     - an attribute that defines the destination of the link
-<img>
+- <img>
     - defines an image
 -  src=''
     - an attribute that defines the destination of the image
+```
