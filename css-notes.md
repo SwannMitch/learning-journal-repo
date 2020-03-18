@@ -22,4 +22,10 @@
     - expresses color in terms of how much red, green, and blue are used to make it up
 - hex codes
     - six-digit codes that represent the amount of red, green, and blue in a color, preceded by a hash (#)
-- 
+- hue
+    - the colloquial idea of color
+- saturation
+    - the amount of gray in a color
+- lightness
+    - the amount of white in a color
+    
