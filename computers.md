@@ -1,6 +1,6 @@
 # How Computers Work!
 
-Based on a [playlist by Code.Org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), here are my 3 most significant learnings:
+Based on the [playlist by Code.Org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-), here are my 3 most significant learnings:
 
 #### What makes a computer, a computer
 
@@ -11,4 +11,13 @@ Based on a [playlist by Code.Org](https://www.youtube.com/playlist?list=PLzdnOPI
 - Storage
 - Output
 
+#### Binary & Data
+
+> I know a little about bits and bytes, I've heard of binary code (and watched the Matrix), but I didn't know how information displayed. Especially photos, videos, graphics, and sound as binary code.
+
 #### 
+
+>
+
+
+**[Home](https://swannmitch.github.io/learning-journal-repo/)**

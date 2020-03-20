@@ -37,3 +37,5 @@ Here is an example of a paragraph tag:
 -  src=''
     - an attribute that defines the destination of the image
 ```
+
+**[Home](https://swannmitch.github.io/learning-journal-repo/)**

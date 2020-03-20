@@ -33,3 +33,4 @@ git clone [repository URL]
 git status
 ```
 
+**[Home](https://swannmitch.github.io/learning-journal-repo/)**

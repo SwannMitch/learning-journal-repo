@@ -22,3 +22,5 @@
     - either true or false
 - array
     - a variable with a list of values
+
+**[Home](https://swannmitch.github.io/learning-journal-repo/)**

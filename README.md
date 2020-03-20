@@ -20,4 +20,4 @@
 - [Notes about JavaScript](https://swannmitch.github.io/learning-journal-repo/justjs)
 - [Notes about CSS](https://swannmitch.github.io/learning-journal-repo/css-notes)
 - [Notes about Programming with JavaScript](https://swannmitch.github.io/learning-journal-repo/progwithjs)
-- [Notes about How Computer Work](https://swannmitch.github.io/learning-journal-repo/computers)
+- [Notes about How Computers Work](https://swannmitch.github.io/learning-journal-repo/computers)
