@@ -17,3 +17,7 @@
 - [Notes about the CLI](https://swannmitch.github.io/learning-journal-repo/cli)
 - [Notes about Git](https://swannmitch.github.io/learning-journal-repo/git-good)
 - [Notes about HTML](https://swannmitch.github.io/learning-journal-repo/html)
+- [Notes about JavaScript](https://swannmitch.github.io/learning-journal-repo/justjs)
+- [Notes about CSS](https://swannmitch.github.io/learning-journal-repo/css-notes)
+- [Notes about Programming with JavaScript](https://swannmitch.github.io/learning-journal-repo/progwithjs)
+- [Notes about How Computer Work](https://swannmitch.github.io/learning-journal-repo/computers)
