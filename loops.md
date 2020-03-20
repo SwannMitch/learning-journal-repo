@@ -34,3 +34,6 @@
     - used to run code unspecified number of times as long as the condition is true
 - do while loop
     - will always run the statements at least once, even if the condition evaluates to false
+
+
+    skgnsongso
