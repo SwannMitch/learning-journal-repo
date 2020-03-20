@@ -4,7 +4,7 @@ Based on the [playlist by Code.Org](https://www.youtube.com/playlist?list=PLzdnO
 
 #### What makes a computer, a computer
 
-> It's amazing to me that from the very first computer, to even the most modern, enthusiast computers, they still execute the 4 basic tasks:
+> It's amazing to me that from the very first computer, to even the most modern, enthusiast computers, they still execute 4 basic tasks:
 
 - Input
 - Process
@@ -15,7 +15,7 @@ Based on the [playlist by Code.Org](https://www.youtube.com/playlist?list=PLzdnO
 
 > I know a little about bits and bytes, I've heard of binary code (and watched the Matrix), but I didn't know how information displayed. Especially photos, videos, graphics, and sound as binary code.
 
-#### 
+#### CPU, Memory, Input & Output
 
 >
 
