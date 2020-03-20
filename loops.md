@@ -24,7 +24,7 @@
     - allow you to compare the results of more than one comparison operator
 - && (logical and)
     - tests more than one condition
-- || (logical or)
+- \|| (logical or)
     - tests at least one condition
 - ! (logical not)
     - takes a single Boolean value and inverts it
