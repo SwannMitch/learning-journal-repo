@@ -15,9 +15,9 @@ Based on the [playlist by Code.Org](https://www.youtube.com/playlist?list=PLzdnO
 
 > I know a little about bits and bytes, I've heard of binary code (and watched the Matrix), but I didn't know how information displayed. Especially photos, videos, graphics, and sound as binary code.
 
-#### CPU, Memory, Input & Output
+#### Hardware & Software
 
->
+> I've been into both hardware and software for as long as I remember. It's cool seeing how different peripherals can have inputs and outputs and they those themselves are made up of binary code.
 
 
 **[Home](https://swannmitch.github.io/learning-journal-repo/)**
