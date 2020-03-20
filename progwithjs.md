@@ -1,6 +1,6 @@
 # Programming with JavaScript
 
-#### Here are some more Javascript defintions:
+#### Here are some more Javascript terminology:
 
 - expression
     - evaluates into a single value

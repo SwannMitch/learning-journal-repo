@@ -1,6 +1,6 @@
 # Terminals and Text Editors!
 
-## Here is a dictionary for the command line interface terminology.
+## Here are some command line interface terminology:
 
 - command line (terminal)
 	- a text based interface to the system

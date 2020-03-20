@@ -3,7 +3,7 @@
 ## What's JavaScript?
 - JavaScript is a programming language created on December 4, 1995 used to allow web pages to be more dynamic and interactive. It, along with HTML, and CSS, make up the backbone of the Internet.
 
-#### Here is some Javascript terminology:
+#### Here are some Javascript terminology:
 - script
     - a series of instructions that a computer can follow one by one
 - statement
