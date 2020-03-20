@@ -30,4 +30,3 @@
     - asking a function to perform its task
 - parameters
     - pieces of information passed to a function
-- 
