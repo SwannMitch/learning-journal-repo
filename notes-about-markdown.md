@@ -68,6 +68,6 @@ or
 _Becomes:_  
 https://swannmitch.github.io/learning-journal-repo/  
 or  
-[Home](https://swannmitch.github.io/learning-journal-repo/)  
-*Notice how the text in the brackets is now a hyperlink for the source.
+**[Home](https://swannmitch.github.io/learning-journal-repo/)**
+
 

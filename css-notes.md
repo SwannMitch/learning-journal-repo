@@ -28,4 +28,6 @@
     - the amount of gray in a color
 - lightness
     - the amount of white in a color
+
+**[Home](https://swannmitch.github.io/learning-journal-repo/)**
     
